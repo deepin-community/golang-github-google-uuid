@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: uuid
 Source: https://github.com/google/uuid
+Upstream-Name: uuid
 
 Files: *
 Copyright: 2009-2018 Google Inc.
